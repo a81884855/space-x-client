@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ApolloClient from "apollo-boost";
 import { ApolloProvider } from "react-apollo";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter, Route } from "react-router-dom";
 import Launches from "./components/Launches";
 import Launch from "./components/Launch";
 import logo from "./logo.png";
@@ -15,7 +15,7 @@ class App extends Component {
   render() {
     return (
       <ApolloProvider client={client}>
-        <Router>
+        <HashRouter basename="/">
           <div className="space-x">
             <div className="container" style={{ paddingBottom: 300 }}>
               <img
@@ -31,7 +31,7 @@ class App extends Component {
               <Route exact path="/launch/:flight_number" component={Launch} />
             </div>
           </div>
-        </Router>
+        </HashRouter>
       </ApolloProvider>
     );
   }
