@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/space-x-client/static/css/main.459770b5.chunk.css",
+    "main.js": "/space-x-client/static/js/main.8268996a.chunk.js",
+    "main.js.map": "/space-x-client/static/js/main.8268996a.chunk.js.map",
+    "runtime-main.js": "/space-x-client/static/js/runtime-main.b7c6e54d.js",
+    "runtime-main.js.map": "/space-x-client/static/js/runtime-main.b7c6e54d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/space-x-client/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.7496d5ad.chunk.js": "/space-x-client/static/js/2.7496d5ad.chunk.js",
+    "static/js/2.7496d5ad.chunk.js.map": "/space-x-client/static/js/2.7496d5ad.chunk.js.map",
+    "index.html": "/space-x-client/index.html",
+    "precache-manifest.352708b41d36223e3de0559780b72bcc.js": "/space-x-client/precache-manifest.352708b41d36223e3de0559780b72bcc.js",
+    "service-worker.js": "/space-x-client/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/space-x-client/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.459770b5.chunk.css.map": "/space-x-client/static/css/main.459770b5.chunk.css.map",
+    "static/js/2.7496d5ad.chunk.js.LICENSE.txt": "/space-x-client/static/js/2.7496d5ad.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/space-x-client/static/media/logo.7dab9996.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7c6e54d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.7496d5ad.chunk.js",
+    "static/css/main.459770b5.chunk.css",
+    "static/js/main.8268996a.chunk.js"
+  ]
+}
